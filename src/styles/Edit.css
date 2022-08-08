@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+  }
+  .bodyclass{
+    background: #FAFAFA;
+    overflow: hidden;
+  }
+  .head{
+     
+    height: 70px;
+  }   
+
+  #container {
+    height: 100%;
+    width: 95%;
+    display: flex;
+  }
+  #leftThing {
+    width: 33.33%;
+    
+  }
+  
+  #rightThing {
+    width: 66.66%;
+  }
+  .ellipseimg{
+    right:    160px;
+    position: relative;
+    margin-top: 13px;
+  }
+  .editimg{
+    left:    160px;
+    position: relative;
+    margin-top: 20px;
+   
+  }
+  .topsec1{
+    background: #FDFDFD;
+    opacity: 1;
+    box-shadow: 0px 3px 6px #9D9D9D29;
+    border-radius: 10px;
+    height: 100px;
+    padding-top: 15px;
+    padding-left: 20px;
+    width: 95%;
+    margin-left: 35px;
+    margin-top: 20px;
+  
+  }
